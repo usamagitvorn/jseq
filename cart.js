@@ -1,0 +1,1 @@
+document.getElementById('cart-button').addEventListener('click',()=>{alert('Cart feature coming soon.')});
